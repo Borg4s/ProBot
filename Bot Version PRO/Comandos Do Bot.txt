@@ -1,0 +1,10 @@
+📋 COMANDOS DISPONÍVEIS:
+
+Comando	O que faz
+!painel	Abre o Painel Administrativo com botões
+!addadmin (id)	Adiciona um novo administrador
+!setmercadopago (token)	Configura o token do MercadoPago do servidor
+!setwebhook (url)	Define o Webhook para receber pagamentos mais rápido (opcional)
+!setcanal (categoria) (#canal)	Associa uma categoria a um canal específico
+!atualizarloja	Atualiza todos os canais da loja manualmente
+!limparestoque	Remove produtos com estoque 0
